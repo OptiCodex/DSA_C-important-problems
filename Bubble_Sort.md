@@ -1,7 +1,5 @@
-# Prepare markdown content for detailed explanation and dry run of sorting algorithms
 
-
-## 🔁 Bubble Sort
+# 🔁 Bubble Sort
 
 ### ✅ Logic:
 - Repeatedly compare adjacent elements and swap if they are in the wrong order.
