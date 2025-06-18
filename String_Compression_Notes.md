@@ -1,5 +1,5 @@
 
-# 🧩 Leetcode 443 - String Compression
+# String Compression
 
 ## ✅ Problem Statement
 
