@@ -1,4 +1,3 @@
-
 # String Compression
 
 ## ✅ Problem Statement
@@ -107,4 +106,3 @@ Final compressed array: `['a','2','b','2','c','3']`
 - Handles multi-digit counts like `'a', '1', '2'` for 12 repetitions
 - Clean logic with one loop and one `while`
 
----
