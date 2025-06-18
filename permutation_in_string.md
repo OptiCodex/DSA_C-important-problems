@@ -106,10 +106,4 @@ Return `true`
 
 ---
 
-## Hinglish Explanation:
-
-- "s1 ka permutation s2 mein hai ya nahi check karna hai"
-- Har step mein ek character window mein add karo aur ek purana remove karo
-- Frequency count arrays match karein toh permutation mil gaya ✅
-- Efficient hai, permutations generate nahi karna padta
 
